@@ -10,14 +10,6 @@ A simple and fun web application that fetches random wholesome memes using the [
 - "Generate Meme" button for endless fun
 - Instant meme load on page refresh
 
-## 📸 Screenshot
-
-*(You can add a screenshot here once the UI is ready)*
-
-## 🚀 Live Demo
-
-*Coming soon* (or add a GitHub Pages / Netlify / Vercel link if deployed)
-
 ## 🔧 Technologies Used
 
 - HTML
